@@ -1,5 +1,5 @@
 {
-    "name": "jayelkaake/enhancedgrid",
+    "name": "ambimax/enhancedgrid",
     "type": "magento-module",
     "description":"Improves the existing Magento admin product management grid. It adds some useful, customizable features to the admin product management grid including new columns and tools.",
     "authors":[
